@@ -1,5 +1,4 @@
 # Speak-Tutor
-SpeakTutor is a website that helps people practice speaking English. It records your voice, checks how close your pronunciation is to the correct sentence, gives a score, and speaks feedback to help you improve.
 SpeakTutor 🎙️
 SpeakTutor is a web-based app that helps users practice and improve their English pronunciation.
 It records your voice, compares it with a given sentence, gives a pronunciation score, and provides spoken feedback!
