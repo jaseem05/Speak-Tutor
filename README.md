@@ -31,7 +31,8 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/speaktutor.git
+git clone https://github.com/jaseem05/speaktutor.git
+
 cd speaktutor
 Install Python dependencies:
 
